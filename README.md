@@ -1,22 +1,18 @@
 # Samsung Global Performance & Supply Chain Analytics Dashboard
 
-<div align="center">
+![Power BI](https://img.shields.io/badge/POWER_BI-DASHBOARD-0B0B0B?style=flat-square&labelColor=1D1D1D)
+![DAX](https://img.shields.io/badge/DAX-30%2B_MEASURES-1D1D1D?style=flat-square&labelColor=0B0B0B)
+![Architecture](https://img.shields.io/badge/SCHEMA-CONSTELLATION-3D3D3D?style=flat-square&labelColor=1D1D1D)
+![Domain](https://img.shields.io/badge/DOMAIN-SUPPLY_CHAIN_%26_COMMERCIAL-2E2E2E?style=flat-square&labelColor=1D1D1D)
+![License](https://img.shields.io/badge/LICENSE-MIT-3D3D3D?style=flat-square&labelColor=1D1D1D)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Architecture-Constellation_Schema-darkgreen?style=for-the-badge)
-![Supply Chain](https://img.shields.io/badge/Domain-Supply_Chain_%26_Commercial-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+An end-to-end enterprise Power BI solution diagnosing value chain flow, commercial velocity, and freight fulfillment across Samsung Electronics' global operations (**$176.95M** net revenue, **27.4%** net margin, **7,500** shipments).
 
-### An End-to-End Enterprise Power BI Solution Diagnosing Value Chain Flow, Commercial Velocity, and Freight Fulfillment for Samsung Electronics
-
-[📊 Live Portfolio Overview](https://nady-07.github.io/portfolio/#projects) · [📥 Download .PBIX File](./Samsung%20Dashboard.pbix) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
-
-</div>
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/#portfolio) · [Download .PBIX File](./Samsung%20Dashboard.pbix) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 Modern consumer tech enterprises operate complex global supply networks where top-line commercial momentum can often mask severe operational vulnerabilities upstream. 
 
@@ -26,7 +22,7 @@ Built using a **Multi-Fact Constellation Schema** (5 Dimension tables, 5 Fact ta
 
 ---
 
-## 🚀 Key Business Metrics & Findings
+## Key Business Metrics & Findings
 
 | Metric Domain | KPI | Value | Business Context & Insight |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +38,7 @@ Built using a **Multi-Fact Constellation Schema** (5 Dimension tables, 5 Fact ta
 
 ---
 
-## 📸 Dashboard Walkthrough & Architecture
+## Dashboard Walkthrough & Architecture
 
 ### Page 1: Executive Overview & Value Chain Journey
 Diagnoses enterprise-wide health, connects the 4-stage value flow, and tracks monthly revenue pacing toward the annual target. Features a slide-out custom filter drawer.
@@ -105,7 +101,7 @@ To cleanly support cross-functional reporting without circular dependencies or h
 
 ---
 
-## 🧮 Selected DAX Measures Catalog
+## Selected DAX Measures Catalog
 
 All business metrics were engineered using strict performance-first DAX patterns, leveraging `DIVIDE` for safe division and explicit filter context management:
 
@@ -179,7 +175,7 @@ CALCULATE(
 
 ---
 
-## 💡 Strategic Recommendations & Action Playbook
+## Strategic Recommendations & Action Playbook
 
 Based on the quantitative findings surfaced by this dashboard, leadership has established a **90-Day Execution Roadmap**:
 
@@ -195,7 +191,7 @@ Based on the quantitative findings surfaced by this dashboard, leadership has es
 
 ---
 
-## 🛠️ How to Open & Inspect the Project
+## How to Open & Inspect the Project
 
 1. **Prerequisites:** Install [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (July 2024 or later recommended).
 2. **Clone this repository:**
@@ -207,10 +203,11 @@ Based on the quantitative findings surfaced by this dashboard, leadership has es
 
 ---
 
-## 👨‍💻 Author & Contact
+## License
 
-**Mohamed Al Nady** — *Data Analyst specializing in SQL, Power BI, DAX, and Data Warehousing*
-* 🌐 **Portfolio:** [nady-07.github.io/portfolio](https://nady-07.github.io/portfolio/)
-* 💼 **LinkedIn:** [linkedin.com/in/mohamed-alnady-52b87123b](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
-* 📧 **Email:** [mohamednady0@outlook.com](mailto:mohamednady0@outlook.com)
-* 🐙 **GitHub:** [@Nady-07](https://github.com/Nady-07)
+Licensed under the [MIT License](./LICENSE).
+
+---
+
+**Mohamed Al Nady** — *Data & Business Intelligence Analyst*  
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b) · [Email](mailto:mohamednady0@outlook.com) · [GitHub](https://github.com/Nady-07)
